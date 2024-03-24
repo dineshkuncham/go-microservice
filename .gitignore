@@ -1,0 +1,13 @@
+*workspace
+*.sql
+*.pdf
+*.png
+*.DS_Store
+authApp
+brokerApp
+front*App
+listenerApp
+loggerServiceApp
+mailerApp
+**/db-data/*
+**/queue-data/*
